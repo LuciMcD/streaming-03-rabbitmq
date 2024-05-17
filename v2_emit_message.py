@@ -40,7 +40,7 @@ def send_message(host: str, queue_name: str, message: str):
 
     try:
         # create a blocking connection to the RabbitMQ server
-        conn = pika.BlockingConnection(pika.ConnectionParameters(host))
+        conn = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
 
         # use the connection to create a communication channel
         ch = conn.channel()
