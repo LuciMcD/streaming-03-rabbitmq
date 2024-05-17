@@ -1,0 +1,19 @@
+2024-05-16 21:05:21,484.v2_listen_for_messages.INFO ==================================================
+2024-05-16 21:05:21,485.v2_listen_for_messages.INFO Today is 2024-05-16 at 09:05 PM
+2024-05-16 21:05:21,485.v2_listen_for_messages.INFO Running on: nt Windows 10
+2024-05-16 21:05:21,485.v2_listen_for_messages.INFO Python version:  3.11.4
+2024-05-16 21:05:21,485.v2_listen_for_messages.INFO Python path: C:\Users\lucim\Streaming Data\streaming-03-rabbitmq\.venv
+2024-05-16 21:05:21,485.v2_listen_for_messages.INFO Working dir: C:\Users\lucim\Streaming Data\streaming-03-rabbitmq
+2024-05-16 21:05:21,485.v2_listen_for_messages.INFO ==================================================
+2024-05-16 21:05:21,504.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-16 21:05:21,504.v2_listen_for_messages.INFO Received: Hello World!
+2024-05-16 21:05:21,505.v2_listen_for_messages.INFO Received: Buenos Dias
+2024-05-16 21:05:21,505.v2_listen_for_messages.INFO Received: Hola Amigos
+2024-05-16 21:05:21,505.v2_listen_for_messages.INFO Received: Hola Amigos
+2024-05-16 21:05:21,506.v2_listen_for_messages.INFO Received: What's your name?
+2024-05-16 21:05:21,506.v2_listen_for_messages.INFO Received: WOW COOL!!
+2024-05-16 21:05:21,506.v2_listen_for_messages.INFO Received: WOW COOL!!
+2024-05-16 21:05:21,506.v2_listen_for_messages.INFO Received: WOW COOL!!
+2024-05-16 21:05:21,506.v2_listen_for_messages.INFO Received: Hello World!
+2024-05-16 21:05:36,498.v2_listen_for_messages.WARNING User interrupted the listening process.
+2024-05-16 21:05:36,500.v2_listen_for_messages.INFO Closing connection. Goodbye.
