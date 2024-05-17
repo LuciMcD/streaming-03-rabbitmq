@@ -1,8 +1,8 @@
-2024-05-16 21:13:35,078.v2_emit_message.INFO ==================================================
-2024-05-16 21:13:35,078.v2_emit_message.INFO Today is 2024-05-16 at 09:13 PM
-2024-05-16 21:13:35,079.v2_emit_message.INFO Running on: nt Windows 10
-2024-05-16 21:13:35,079.v2_emit_message.INFO Python version:  3.11.4
-2024-05-16 21:13:35,079.v2_emit_message.INFO Python path: C:\Users\lucim\Streaming Data\streaming-03-rabbitmq\.venv
-2024-05-16 21:13:35,079.v2_emit_message.INFO Working dir: C:\Users\lucim\Streaming Data\streaming-03-rabbitmq
-2024-05-16 21:13:35,079.v2_emit_message.INFO ==================================================
-2024-05-16 21:13:35,095.v2_emit_message.INFO  [x] Sent Hello World!
+2024-05-16 21:20:43,459.v2_emit_message.INFO ==================================================
+2024-05-16 21:20:43,459.v2_emit_message.INFO Today is 2024-05-16 at 09:20 PM
+2024-05-16 21:20:43,459.v2_emit_message.INFO Running on: nt Windows 10
+2024-05-16 21:20:43,459.v2_emit_message.INFO Python version:  3.11.4
+2024-05-16 21:20:43,459.v2_emit_message.INFO Python path: c:\Users\lucim\Streaming Data\streaming-03-rabbitmq\.venv
+2024-05-16 21:20:43,459.v2_emit_message.INFO Working dir: C:\Users\lucim\Streaming Data\streaming-03-rabbitmq
+2024-05-16 21:20:43,459.v2_emit_message.INFO ==================================================
+2024-05-16 21:20:43,471.v2_emit_message.INFO  [x] Sent Hello World!
