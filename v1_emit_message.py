@@ -1,6 +1,9 @@
 """
     This program sends a message to a queue on the RabbitMQ server.
 
+    Name: Luci McDaniel
+    Date: May 16, 2024
+
 """
 
 # add imports at the beginning of the file

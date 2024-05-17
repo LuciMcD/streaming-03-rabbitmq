@@ -21,6 +21,10 @@ Terminal Reminders
 - Use the up arrow to get the last command executed.
 
 """
+'''
+Name: Luci McDaniel
+Date: May 16, 2024
+'''
 
 # you can add multiple imports on one line
 # but we don't recommend it for readability

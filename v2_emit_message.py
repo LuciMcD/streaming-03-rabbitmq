@@ -10,7 +10,7 @@ You can change the message and run it again in the same terminal.
 Remember:
 - Use the up arrow to recall the last command executed in the terminal.
 """
-
+''' Name: Luci McDaniel, Date: May 16, 2024 '''
 # Import from Standard Library
 import sys
 
@@ -66,4 +66,4 @@ def send_message(host: str, queue_name: str, message: str):
 # If this is the script we are running, then call some functions and execute code!
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
-    send_message("llllocalhost", "hello", "Hello World!")
+    send_message("localhost", "hello", "Hello World!")

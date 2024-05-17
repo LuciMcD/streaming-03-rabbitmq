@@ -11,6 +11,9 @@ Remember:
 - Use Control + C to close a terminal and end the listening process.
 - Use the up arrow to recall the last command executed in the terminal.
 """
+''' Name: Luci McDaniel
+    Date: May 16, 2024
+'''
 
 
 # Import necessary modules from the Python Standard Library
