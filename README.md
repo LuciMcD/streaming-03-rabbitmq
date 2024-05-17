@@ -101,13 +101,13 @@ We can execute additional commands in the terminal as soon as it finishes.
 1. Run the file.
 
 You'll need to fix an error in the program to get it to run.
-Once it runs successfully, will it terminate on its own? How do you know? 
+Once it runs successfully, will it terminate on its own? No it didn't.  How do you know? It states "To exit press CTRL+C".
 As long as the process is running, we cannot use this terminal for other commands. 
 
 ## Task 8. Open a New Terminal / Emit More Messages
 
 1. Open a new terminal window.
-1. Use this new window to run emit_message.py again.
+1. Use this new window to run v1_emit_message.py again.
 1. Watch the listing terminal - what do you see?  A second message?
 
 Sending the same message each time is kind of boring. This time:
